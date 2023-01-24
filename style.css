@@ -1,0 +1,34 @@
+body{
+    font-family: 'Nunito', sans-serif;
+    padding-left: 380px;
+    padding-top: 20px;
+    background-image: linear-gradient(to right, green , aqua
+    )
+    
+
+}
+form{
+    border: 3px solid white;
+    width: 500px;
+    height: 450px;
+    padding: 40px;
+
+}
+
+
+
+input{
+    width: 90%;
+    padding: 20px;
+
+}
+.button{
+    margin-left: 190px;
+     margin-top: 50px;
+    width: 80px;
+}
+.message{
+    height: 60px;
+
+
+}
